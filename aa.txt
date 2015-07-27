@@ -1,2 +1,6 @@
 aa.txt
+<<<<<<< HEAD
 master add info
+=======
+dev add info
+>>>>>>> dev
